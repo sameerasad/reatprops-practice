@@ -23,8 +23,9 @@ ReactDOM.render(
     <u></u>
     <Food foodName="sweet"/>
     
-    <Sunday />
-    <Sunday />
+    <Sunday name="piaic bootcamp" />
+    <Sunday name="i will learn bootcamp things "/>
+    <Sunday  name= "then i will sleep" />
 
 
   </React.StrictMode>,
