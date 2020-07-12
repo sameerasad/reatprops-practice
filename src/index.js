@@ -5,6 +5,7 @@ import App from './App';
 import Food from './Food';
 import Routine from './Routine'
 import Sunday from './Sunday'
+import Monday from './Monday'
 
 import * as serviceWorker from './serviceWorker';
 
@@ -26,6 +27,7 @@ ReactDOM.render(
     <Sunday name="piaic bootcamp" />
     <Sunday name="i will learn bootcamp things "/>
     <Sunday  name= "then i will sleep" />
+    <Monday  value="Cover everything"/>
 
 
   </React.StrictMode>,
