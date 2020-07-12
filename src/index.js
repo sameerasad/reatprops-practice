@@ -22,7 +22,11 @@ ReactDOM.render(
     <br/>
     <u></u>
     <Food foodName="sweet"/>
+    
     <Sunday />
+    <Sunday />
+
+
   </React.StrictMode>,
   document.getElementById('root')
 );
